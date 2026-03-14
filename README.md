@@ -1,1 +1,1 @@
-# Ci-ncias-da-Computa-o---2026-1
+# Ciências da Computação - 2026/1
