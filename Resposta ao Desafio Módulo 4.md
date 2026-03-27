@@ -1,5 +1,6 @@
 # Circuito
-![[Pasted image 20260327144634.jpg]]
+![CircuitoAtividadeMod2](https://github.com/user-attachments/assets/f8ed44bc-7854-4920-98e5-93f65f8a6542)
+
 
 # Tabela verdade:
 
