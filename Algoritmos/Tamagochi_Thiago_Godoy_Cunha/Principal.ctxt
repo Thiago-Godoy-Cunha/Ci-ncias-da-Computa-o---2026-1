@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\n\ Classe\ principal\ que\ controla\ as\ intera\u00E7\u00F5es\ com\ oo\ Tamagotchi.\r\n\ Autor\:\ Thiago\ Godoy\ Cunha\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tama
+comment2.target=void\ lidarSono(Tamagotchi)
+comment3.params=tama
+comment3.target=void\ lidarFome(Tamagotchi)
+comment4.params=tama
+comment4.target=void\ lidarTedio(Tamagotchi)
+numComments=5
