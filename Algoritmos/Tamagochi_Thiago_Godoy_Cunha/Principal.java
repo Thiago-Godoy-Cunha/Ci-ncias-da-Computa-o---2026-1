@@ -38,7 +38,7 @@ public class Principal {
             System.exit(0);
         } 
         if (tama.getPeso() > 20) {
-            System.out.println(tama.getNome() + " explodiu de tanto comer, no próximo, compra Mounjaro.comeu tanto que virou um balão, começou a levitar ultrapassando a atmosfera e, ao orbitar a terra, explodiu em colisão com outro Tamagotchi rechonchudo!");
+            System.out.println(tama.getNome() + " comeu tanto que virou um balão, começou a levitar ultrapassando a atmosfera e, ao orbitar a terra, explodiu em colisão com outro Tamagotchi rechonchudo!");
             System.exit(0);
         }
     }
